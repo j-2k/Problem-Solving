@@ -4,9 +4,10 @@ Problem-solving repository to deposit my answers for problems ranging from websi
 **Keys: ✔️ = Completed | ⌛ = In Progress | ❌ = Wait Listed / Not Started**
 
 Mainly compromised of these sites:  
-⌛ [neetcode roadmap](https://neetcode.io/roadmap) - mainly derived from [leetcode](https://leetcode.com)  
-⌛ [codingame](https://codingame.com)  
-❌ [hackerrank](https://hackerrank.com)    
+⌛📈 [Neetcode Roadmap](https://neetcode.io/roadmap) - mainly derived from [leetcode](https://leetcode.com)  
+⌛ [Codingame](https://codingame.com)  
+⌛❗[Hackerrank](https://hackerrank.com) - My first website where I trained for problem solving when I came across my first problem solving interview which was from Blizzard.  
+❗ = I started out on hackerrank but I mainly moved on to codingame for a while & then now will ultimately stick to neetcodes roadmap since it seems like the best roadmap out of all that iv seen from these comp programming sites.
 
 Courses:  
 ❌ MIT | Fall 2012 - [Undergraduate Computer Graphics course](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/pages/syllabus/)
